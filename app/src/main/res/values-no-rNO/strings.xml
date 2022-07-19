@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Sudoku</string>
+    <string name="end_game">Avslutt spill</string>
+    <string name="success">Riktig sudoku</string>
+    <string name="failure">Feil</string>
+    <string name="play_game">Nytt spill</string>
+    <string name="add_game">Legg til brett</string>
+    <string name="save_game">Lagre</string>
+    <string name="next">Press en knapp for å fortsette spillet</string>
+    <string name="info">Hvordan Spille: Sudoku spilles på et rutenett på 9 x 9 mellomrom. Innenfor radene og kolonnene er det 9 “firkanter” (består av 3 x 3 mellomrom). Hver rad, kolonne og firkant (9 mellomrom hver) må fylles ut med tallene 1-9, uten å gjenta noen tall innenfor raden, kolonnen eller firkanten. Høres det komplisert ut? Som du kan se fra bildet nedenfor av et faktisk Sudoku-rutenett, kommer hvert Sudoku-rutenett med noen få mellomrom som allerede er fylt ut; jo flere mellomrom fylt ut, jo lettere er spillet - jo vanskeligere Sudoku-gåter har svært få mellomrom som allerede er fylt ut.
+    </string>
+    <string name="help">Hvordan spille</string>
+    <string name="note">Notat-modus</string>
+    <string name="clear">Tøm</string>
+
+    <string name="easy">Lett</string>
+    <string name="normal">Normal</string>
+    <string name="hard">Hardt</string>
+
+    <string name="back">Tilbake</string>
+    <string name="lang">Endre språk</string>
+</resources>
